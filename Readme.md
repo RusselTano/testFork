@@ -156,14 +156,3 @@ Ce fichier doit être situé au niveau du conteneur dans le répertoire : ``/pga
 
 Lancez l’exécution de votre pipeline afin de déployer les différentes applications demandés. Testez le bon fonctionnement de vos différentes applications et n’hésitez pas à prendre des captures d’écran le plus possible afin de consolider votre travail dans un rapport final qui présentera dans les moindre détails ce que vous avez fait. Le rapport doit être élaboré en ``Markdown`` dans votre dépôt git.
 
- ## ANNEXE
-
-Ci-dessous un exemple de description des qualifications souhaitées pour un poste de Devops 
-
-![](images/offre_emploi.jpeg)
-
-**NB** : Bien vouloir preter attention aux qualités encadrées en jaune ci-dessus, vous vous rendez compte en effet que maitriser les technologies seulement ne suffit pas, il faut en plus de ca avoir un esprit très créatif, de très bonnes capacités redactionnelles pour rediger vos différents rapports et également des qualités de pédagogue qui vous aideront à parfaire les explications de vos actions dans vos différents rapports afin de faciliter leur compréhension. 
-
-Compte tenu de tout cela, je vous invite tous à donner de l’importance à ce volet « rapport » de votre projet final, car c’est également une partie très importante qui devra pouvoir décrire le contenu de l’ensemble de votre travail.  
-
-Merci de le rédiger correctement avec les captures d’écran, commentaires et explications qui vont bien.
