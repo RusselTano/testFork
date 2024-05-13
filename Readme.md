@@ -27,6 +27,7 @@ La société **IC GROUP** dans laquelle vous travaillez en tant qu’ingénieur 
 1. Odoo 
 2. pgAdmin
 3. Dylane
+4. Russel
 #### odoo
 C'est un ERP multi usage qui permet de gérer le système d'information de l'entreprise, nottament les ventes, les achats, la comptabilité, l’inventaire, le personnel, etc …  
 
